@@ -1,0 +1,32 @@
+The Insurance Analytics Dashboard is a data visualization project built using Power BI to analyze insurance data and uncover business insights related to customers, policies, claims, and revenue performance.
+
+This dashboard helps stakeholders understand insurance trends, customer behavior, claim patterns, and overall company performance through interactive visualizations.
+
+Project Objectives
+Analyze insurance policy distribution and performance
+Track claim amount and approval trends
+Understand customer demographics
+Identify high-risk segments
+Support data-driven decision making
+
+Dataset Description
+
+The dataset contains insurance-related information such as:
+
+Customer Details
+Policy Type
+Premium Amount
+Claim Amount
+Claim Status
+Policy Duration
+Gender / Age Group
+Region / Location
+
+Dashboard preview < a href-"C:\Users\rutuj\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 184725.png"> 
+
+#InsuranceAnalytics
+#InsuranceDashboard
+#InsuranceData
+#InsuranceIndustry
+#RiskAnalysis
+#ClaimsAnalysis
